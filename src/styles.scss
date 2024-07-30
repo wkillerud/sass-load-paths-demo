@@ -1,0 +1,5 @@
+@use "my-lib/variables";
+
+body {
+	color: variables.$color-primary;
+}
